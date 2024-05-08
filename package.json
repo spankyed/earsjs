@@ -1,0 +1,19 @@
+{
+  "name": "earsjs",
+  "version": "0.0.1",
+  "description": "Javascript entity-component-system",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spankyed/earsjs.git"
+  },
+  "author": "spankyed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spankyed/earsjs/issues"
+  },
+  "homepage": "https://github.com/spankyed/earsjs#readme"
+}
